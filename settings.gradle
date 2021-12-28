@@ -1,0 +1,3 @@
+include ':mp3library'
+include ':app'
+rootProject.name = "AudioDemo"
